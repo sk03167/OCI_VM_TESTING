@@ -1,0 +1,12 @@
+# Terraform state
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform core directory
+.terraform/
+
+# Sensitive or unnecessary lock file
+.terraform.lock.hcl
+
+# Private keys or secrets
+keys/

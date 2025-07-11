@@ -1,0 +1,2 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaabfulbnhcjya5c5ki4wcjfw25tzfkwfbhal4kvjuahguqunu4i6xa"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaartrrfovgnabm6ojav4elbbldyd7xrjqayf6vqpe7v4jgbfymr6xa"
